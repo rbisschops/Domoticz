@@ -1,0 +1,22 @@
+[
+    {
+    "screens": 
+        {
+            "screen[1]": 
+                {
+                    "background": "custom/img/steel2.jpg",
+                    "columns": [1,2,3]
+                },
+             "screen[2]":
+                {
+                    "background": "custom/img/steel2.jpg",
+                    "columns": [4,5]
+                },
+            "screen[3]":
+                {
+                    "background": "custom/img/steel2.jpg",
+                    "columns": [7,8,9]
+                }                         
+         }
+    }
+]

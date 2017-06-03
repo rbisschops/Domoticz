@@ -1,0 +1,97 @@
+[
+    {
+    "version": "0.1",
+    "build": "0000",
+    "domoticz":
+        {
+            "host": "http://192.168.1.208:8080",
+            "refresh": 60
+        },
+    "language": "nl-NL",
+    "usefavorites": false,
+    "useautpositioning": false,
+    "hidesecondsinclock": false,
+    "hidemediaplayerwhenoff": false,
+    "translatespeed": false,
+    "showlastupdate": false,
+    "editmode":false,
+    "locale":
+        {
+            "fahrenheid": false,
+            "lastupdateformat": "DD-MM-YY HH:mm"
+        },
+    "backgroundimage": "bg2.jpg",
+    "newsrssfeed": "http://www.nu.nl/rss/algemeen",
+    "standbyafterminutes": 1,
+    "weather":
+        {
+            "city": "schiedam",
+            "cityname": "",
+            "country": "NL"
+        }, 
+    "wunderground": 
+    {
+        "apikey":"b41a0f75f3eb0fa0"
+    },
+    "usestaticweathericons": true,   
+    "usebeaufort": true,    
+    "scrollnewsafter": 7000,
+    "dashticzrefresh": 120,
+    "streamplayertracks": 
+        [
+            {
+                "track": 1,
+                "name": "Music FM",
+                "file": "http://stream.musicfm.hu:8000/musicfm.mp3"
+            },
+            {
+                "track": 2,
+                "name":"Radio 1",
+                "file":"http://213.181.210.106:8000/high.mp3"
+            },
+            {
+                "track":3,
+                "name":"Test FM",
+                "file":"http://213.181.210.106:8000/high.mp3"
+            }
+        ],
+    "maps": 
+        {
+            "latitude": 51,
+            "longitude": 5,
+            "zoomlevel": 13,
+            "apikey": ""
+        },
+    "screenslidereffect": "slide",
+    "icalendar":
+        {
+            "url": "https://testurl.com/ical.ics",
+            "dataformat": "friendly",
+            "locale": "en"
+        },
+    "savedcolors":["black", "white", "blanchedalmond","rgb(255, 128, 0);", "hsv 100 70 50", "lightyellow"],
+
+    "theme":"default",
+    "autoswipeback": 
+        { 
+            "to": 1,
+            "time": 10
+        },    
+    "ziggohorizon":
+        { 
+            "host":""
+        },        
+    "filelocations": 
+        {
+            "blocks": "blocks",
+            "screens": "screens",
+            "buttons": "buttons"
+        },
+    "datafile": 
+        {
+            "location": "config",
+            "extension": "json"
+        }
+    }
+]
+
