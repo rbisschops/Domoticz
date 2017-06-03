@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": 
+            {
+                "Visibility": 
+                    {
+                        "icon":"fa fa-eye",
+                        "title": "<Name>",
+                        "value": "<Data>"
+                    },
+                "Electric":
+                    {
+                        "icon":"fa fa-plug",
+                        "title": "<Name>",
+                        "value": "<Data>"
+                    }
+            },
+        "sensorunit":
+            {
+                "Fertility":
+                    {
+                        "icon":"fa fa-flask",
+                        "title": "<Name>",
+                        "value": "<Data>"
+                    }                
+            },
+        "type":
+            {
+                "Rain":
+                    {
+                        "icon":"fa fa-tint",
+                        "title": "<Name>",
+                        "value": "<Rain>mm"
+                    }    
+            },
+        "hardwaretype":
+            {
+                "Motherboard sensors":
+                    {
+                        "icon":"fa fa-desktop",
+                        "title": "<Name>",
+                        "value": "<Data>"
+                    },
+                "PVOutput (Input)":
+                    {
+                        "icon":"fa fa-sun-o",
+                        "title": "<Name>",
+                        "value": "<CounterToday>"
+                    }                         
+            },
+        "hardwarename":
+            {
+                "Rain expected":
+                    {
+                        "icon":"fa fa-tint",
+                        "title": "<Data>",
+                        "value": "<Name>"
+                    }
+            },
+        "name":
+            {
+                "Rain Expected":
+                    {
+                        "icon":"fa fa-tint",
+                        "title": "<Data>",
+                        "value": "<Name>"
+                    },
+                "Rain expected":
+                    {
+                        "icon":"fa fa-tint",
+                        "title": "<Data>",
+                        "value": "<Name>"
+                    }           
+            }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "buttons": 
+            {
+                "buienradar":
+                    {
+                        "width":12,
+                        "isimage":true,
+                        "image": "http://api.buienradar.nl/image/1.0/RadarMapNL?w=285&h=256",
+                        "url": "http://www.weeronline.nl/Europa/Nederland/Schiedam/4057936"
+                    },
+                "radio": 
+                    {
+                        "width":12,
+                        "image": "img/radio_on.png",
+                        "title": "Radio",
+                        "url": "http://nederland.fm"
+                    },
+                "nunl":
+                    {
+                        "width":12,
+                        "icon": "fa-newspaper-o",
+                        "title": "Nu.nl",
+                        "url": "http://www.nu.nl"    
+                    } 
+            
+            }
+    }
+]

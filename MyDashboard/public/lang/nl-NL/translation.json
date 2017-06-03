@@ -1,0 +1,69 @@
+[
+  {
+    "maintitle": "Domoticz Dashboard",
+    "subtitle": "",
+    "footer": "DOMOTICZ DASHBOARD © R.BISSCHOPS 2017",
+    "monday" : "Maandag",
+    "tuesday" : "Dinsdag",
+    "wednesday" : "Woensdag",
+    "thursday" : "Donderdag",
+    "friday" : "Vrijdag",
+    "saturday" : "Zaterdag",
+    "sunday" : "Zondag",
+    "state" : 
+      {
+        "on" : "AAN",
+        "off" : "UIT",
+        "open" : "OPEN",
+        "closed" : "DICHT",
+        "movement" : "BEWEGING",
+        "nomovement" : "Geen beweging",
+        "switch" : "Schakelen",
+        "nosmoke" : "Geen rook",
+        "smoke" : "ROOK GEDETECTEERD!"     
+      },
+    "graph": 
+      {
+        "last_hours" : "laatste uren",
+        "today" : "vandaag",
+        "last_month" : "afgelopen maand"
+      },
+     "energy": 
+      {
+        "usage" : "Energieverbruik",
+        "usagetoday" : "Energie vandaag",
+        "totals" : "Totaal",
+        "total" : "totaal",
+        "now" : "nu",
+        "today" : "vandaag"
+      },
+    "gas":
+      {
+        "usagetoday" : "Gas vandaag"
+      }, 
+    "temp_toon" : "Woonkamer",
+    "wind" : "Kracht",
+    "select" : "Selecteer",
+    "notifications_ns" : "meldingen geplaatst door de NS",
+    "mediaplayer_nothing_playing" : "Er wordt momenteel niets afgespeeld",
+    "direction": 
+      {
+        "N" : "noord",
+        "NNE" : "noord-noordoost",
+        "NE" : "noordoost",
+        "ENE" : "oost-noordoost",
+        "E" : "oost",
+        "ESE" : "oost-zuidoost",
+        "SE" : "zuidoost",
+        "SSE" : "zuid-zuidoost",
+        "S" : "zuid" ,
+        "SSW" : "zuid-zuidwest",
+        "SW" : "zuid-west",
+        "WSW" : "west-zuidwest",
+        "W" : "west",
+        "WNW" : "west-noordwest",
+        "NW" : "noordwest",
+        "NNW" : "noord-noordwest"
+      }
+  }
+]
